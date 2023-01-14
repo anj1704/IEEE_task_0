@@ -36,4 +36,8 @@ while n > 0 :
 
 #####new commit################
 
+<<<<<<< HEAD
 ### random new commit $##$####
+=======
+## random 2 ###
+>>>>>>> feature-b
